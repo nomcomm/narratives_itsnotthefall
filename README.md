@@ -1,7 +1,7 @@
 Analysis for {authors blinded} (submitted)
 =============================================
 
-Data and analysis code for  *FINAL TITLE* [link](http://www.todo.pdf)
+Data and analysis code for *Title* [link](https://docs.google.com/document/d/1cd5OePwgeJTORh3fyhG_s6J2v3Ab78cc5xRTnQKm-oM/edit?usp=sharing)
 
 
 ***
@@ -24,4 +24,4 @@ Data and analysis code for  *FINAL TITLE* [link](http://www.todo.pdf)
 -   see environment file
 
 
-2021 | X
+2022 | {authors blinded} 
