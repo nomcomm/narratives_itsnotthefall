@@ -6,7 +6,7 @@ Data and analysis code for *Title* [link](https://docs.google.com/document/d/1cd
 
 ***
 
-<img align="right" width=550px src=data_notthefall/explainer_fig.png> 
+<img align="right" width=550px src=data_itsnotthefall/explainer_fig.png> 
 
 
 
