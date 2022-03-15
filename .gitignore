@@ -1,0 +1,13 @@
+.ipynb_checkpoints
+old/
+OSF/
+__pycache__/
+.ipynb_checkpoints/
+scripts/.ipynb_checkpoints
+scripts/old
+timeseries_dictionary.npy
+ts_data.npy
+data_pieman/03_extract_ts/sub*
+data_pieman/04_rc_results/all_regions/
+data_pieman/04_rc_results/TPJPeaks/
+data_pieman/04_rc_results/TPJTroughs/
