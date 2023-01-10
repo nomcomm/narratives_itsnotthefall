@@ -3,7 +3,6 @@ Analysis for {authors blinded} (submitted)
 
 Data and analysis code for *Title* [link](https://docs.google.com)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomcomm/narratives_itsnotthefall/HEAD)
 
 ***
 
