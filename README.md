@@ -1,8 +1,9 @@
 Analysis for {authors blinded} (submitted)
 =============================================
 
-Data and analysis code for *Title* [link](https://docs.google.com)
+Data and analysis code for *Title* [link](https://docs.google.com/document/d/1cd5OePwgeJTORh3fyhG_s6J2v3Ab78cc5xRTnQKm-oM/edit?usp=sharing)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomcomm/narratives_itsnotthefall/HEAD)
 
 ***
 
