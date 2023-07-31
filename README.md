@@ -1,13 +1,11 @@
-Analysis for {authors blinded} (submitted)
+Analysis for Schmälzle, Liu, Delle, Lewin, Jahn, Zhang, Yoon, & Long. (2023).
 =============================================
 
-Data and analysis code for *Title* [link](https://docs.google.com/document/d/1cd5OePwgeJTORh3fyhG_s6J2v3Ab78cc5xRTnQKm-oM/edit?usp=sharing)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nomcomm/narratives_itsnotthefall/HEAD)
+Data and analysis code for Schmälzle, Liu, Delle, Lewin, Jahn, Zhang, Yoon, & Long. (2023). *Moment-by-moment tracking of audience brain responses to an engaging public speech: Replicating the reverse-message engineering approach* [link](https://doi.org/10.1080/03637751.2023.2240398)
 
 ***
 
-<img align="right" width=550px src=data_itsnotthefall/explainer_fig.png> 
+<img align="right" width=450px src=data_itsnotthefall/explainer_fig.png> 
 
 
 
@@ -25,4 +23,4 @@ Data and analysis code for *Title* [link](https://docs.google.com/document/d/1cd
 -   see environment file
 
 
-2022 | {authors blinded} 
+2022 | Schmaelzle et al.
