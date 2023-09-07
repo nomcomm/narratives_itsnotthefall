@@ -16,7 +16,7 @@ Data and analysis code for Schmälzle, Liu, Delle, Lewin, Jahn, Zhang, Yoon, & L
 
 ### Data
 
--   The raw fMRI data can be downloaded from openneuro (details see paper). Extracted time series and brain maps are in the data_pieman subfolders.
+-   The raw fMRI data can be downloaded from openneuro (details see paper). Extracted time series and brain maps are in the data_itsnotthefall subfolders.
 
 ### Dependencies
 
